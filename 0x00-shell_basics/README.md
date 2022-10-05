@@ -1,1 +1,1 @@
-script that move all files beginning with uppercase
+script that deletes all files in the current working directory that end with the character
